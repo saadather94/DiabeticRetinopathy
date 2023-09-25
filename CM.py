@@ -78,3 +78,4 @@ fn = round(class_1 - tp)
 confusion_matrix = np.array([[tp, fp], [fn, tn]])
 
 print(confusion_matrix)
+
